@@ -5,7 +5,7 @@ M.S. in Computer Science & Engineering @ UC Santa Cruz
 </p>
 
 <p align="center">
-Full-Stack • AI
+Full-Stack • AI • Data
 </p>
 
 <p align="center">
