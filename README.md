@@ -10,5 +10,5 @@ Full-Stack • AI • Data
 
 <p align="center">
 🌐 <a href="https://jaycee-wu.vercel.app/">Portfolio</a> ·
-💼 <a href="https://www.linkedin.com/in/jiaxuanwu/">LinkedIn</a>
+💼 <a href="https://www.linkedin.com/in/jayceewu/">LinkedIn</a>
 </p>
